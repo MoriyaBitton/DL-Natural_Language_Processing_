@@ -1,4 +1,4 @@
 
 # Deep learning && Natural language processing
 
-### Winter - 2021 || Ariel University, Israel
+## Ariel University, Israel || Semester A 2021-2022
